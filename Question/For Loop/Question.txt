@@ -1,21 +1,66 @@
-1. Print numbers from **1 to 10**.
-2. Print numbers from **10 to 1** in reverse order.
-3. Print all **even numbers** between 1 and 20.
-4. Print all **odd numbers** between 1 and 20.
-5. Print the **square** of numbers from 1 to 10.
-6. Print the **cube** of numbers from 1 to 10.
-7. Find the **sum of numbers** from 1 to n.
-8. Find the **sum of even numbers** from 1 to n.
-9. Find the **sum of odd numbers** from 1 to n.
-10. Calculate the **factorial** of a number.
-11. Print the **multiplication table** of a given number.
-12. Count how many numbers are present from 1 to n.
-13. Print all numbers between 1 and 100 that are **divisible by 5**.
-14. Print all numbers between 1 and 100 that are **divisible by both 3 and 5**.
-15. Find the **largest number** in a list using a `for` loop.
-16. Find the **smallest number** in a list using a `for` loop.
-17. Calculate the **average of elements** in a list using a `for` loop.
-18. Print each character of a string using a `for` loop.
-19. Count the **number of vowels** in a string.
-20. Count the **number of digits, alphabets, and special characters** in a string.
+﻿# 50 Python For Loop Programs
 
+## 1. Basic For Loop (Q1-Q20)
+
+- Q1: Print numbers from 1 to 10
+- Q2: Print numbers from 10 to 1 in reverse order
+- Q3: Print all even numbers between 1 and 20
+- Q4: Print all odd numbers between 1 and 20
+- Q5: Print the square of numbers from 1 to 10
+- Q6: Print the cube of numbers from 1 to 10
+- Q7: Find the sum of numbers from 1 to n
+- Q8: Find the sum of even numbers from 1 to n
+- Q9: Find the sum of odd numbers from 1 to n
+- Q10: Calculate the factorial of a number
+- Q11: Print the multiplication table of a given number
+- Q12: Count how many numbers are present from 1 to n
+- Q13: Print all numbers between 1 and 100 that are divisible by 5
+- Q14: Print all numbers between 1 and 100 that are divisible by both 3 and 5
+- Q15: Find the largest number in a list using a for loop
+- Q16: Find the smallest number in a list using a for loop
+- Q17: Calculate the average of elements in a list using a for loop
+- Q18: Print each character of a string using a for loop
+- Q19: Count the number of vowels in a string
+- Q20: Count the number of digits, alphabets, and special characters in a string
+
+## 2. Number Programs (Q21-Q30)
+
+- Q21: Print all numbers from 1 to n that are divisible by 2
+- Q22: Print all numbers from 1 to n that are divisible by 3
+- Q23: Count the number of even numbers between 1 and n
+- Q24: Count the number of odd numbers between 1 and n
+- Q25: Find the sum of squares of numbers from 1 to n
+- Q26: Find the sum of cubes of numbers from 1 to n
+- Q27: Reverse a given number using a loop
+- Q28: Find the sum of digits of a number
+- Q29: Count the number of digits in a number
+- Q30: Check whether a number is an Armstrong number
+
+## 3. Prime Numbers (Q31-Q35)
+
+- Q31: Check whether a number is prime
+- Q32: Print all prime numbers between 1 and n
+- Q33: Count how many prime numbers exist between 1 and n
+- Q34: Find the sum of all prime numbers between 1 and n
+- Q35: Print the first n prime numbers
+
+## 4. Fibonacci & Series (Q36-Q40)
+
+- Q36: Print the Fibonacci series up to n terms
+- Q37: Find the sum of Fibonacci numbers up to n terms
+- Q38: Print the series: 1 2 3 4 5 6 7 8 9 10
+- Q39: Print the series: 10 20 30 40 50 ... n
+- Q40: Print the series: 1 4 9 16 25 36 ...
+
+## 5. String & List Questions (Q41-Q50)
+
+- Q41: Count the number of uppercase letters in a string
+- Q42: Count the number of lowercase letters in a string
+- Q43: Count the number of spaces in a string
+- Q44: Reverse a string using a loop
+- Q45: Check whether a string is a palindrome
+- Q46: Count the occurrence of a specific character in a string
+- Q47: Find the maximum element in a list
+- Q48: Find the minimum element in a list
+- Q49: Find the second largest element in a list
+- Q50: Calculate the sum of all elements in a list

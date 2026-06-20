@@ -1,63 +1,40 @@
-### Basic Python Coding Questions 
+﻿# 30 Basic Python Coding Questions
 
-1. Write a program to print **"Hello World"**.
+## 1. Basic Programming (Q1-Q10)
 
-2. Write a program to take a user's name as input and print a welcome message.
+- Q1: Write a program to print "Hello World"
+- Q2: Write a program to take a user's name as input and print a welcome message
+- Q3: Write a program to add two numbers entered by the user
+- Q4: Write a program to subtract two numbers
+- Q5: Write a program to multiply two numbers
+- Q6: Write a program to divide two numbers
+- Q7: Write a program to find the square of a number
+- Q8: Write a program to find the cube of a number
+- Q9: Write a program to swap two variables using a third variable
+- Q10: Write a program to swap two variables without using a third variable
 
-3. Write a program to add two numbers entered by the user.
+## 2. Data Types & Conversions (Q11-Q20)
 
-4. Write a program to subtract two numbers.
+- Q11: Write a program to find the datatype of a variable
+- Q12: Write a program to convert a string into an integer
+- Q13: Write a program to convert an integer into a string
+- Q14: Write a program to find the length of a string
+- Q15: Write a program to concatenate two strings
+- Q16: Write a program to convert a string to uppercase
+- Q17: Write a program to convert a string to lowercase
+- Q18: Write a program to create a list and add an element using append()
+- Q19: Write a program to find the maximum value from a list using max()
+- Q20: Write a program to find the minimum value from a list using min()
 
-5. Write a program to multiply two numbers.
+## 3. Bonus Interview Coding Questions (Q21-Q30)
 
-6. Write a program to divide two numbers.
-
-7. Write a program to find the square of a number.
-
-8. Write a program to find the cube of a number.
-
-9. Write a program to swap two variables using a third variable.
-
-10. Write a program to swap two variables without using a third variable.
-
-11. Write a program to find the datatype of a variable.
-
-12. Write a program to convert a string into an integer.
-
-13. Write a program to convert an integer into a string.
-
-14. Write a program to find the length of a string.
-
-15. Write a program to concatenate two strings.
-
-16. Write a program to convert a string to uppercase.
-
-17. Write a program to convert a string to lowercase.
-
-18. Write a program to create a list and add an element using `append()`.
-
-19. Write a program to find the maximum value from a list using `max()`.
-
-20. Write a program to find the minimum value from a list using `min()`.
-
-### Bonus Interview Coding Questions
-
-21. Reverse a string using slicing.
-
-22. Extract the first 5 characters from a string.
-
-23. Count the total number of characters in a string.
-
-24. Find the sum of all elements in a list using `sum()`.
-
-25. Find the average of three numbers.
-
-26. Create a dictionary and print a specific value using its key.
-
-27. Create a tuple and print its length.
-
-28. Remove duplicate values from a list using a set.
-
-29. Find the absolute value of a number using `abs()`.
-
-30. Find the power of a number using `pow()`.
+- Q21: Reverse a string using slicing
+- Q22: Extract the first 5 characters from a string
+- Q23: Count the total number of characters in a string
+- Q24: Find the sum of all elements in a list using sum()
+- Q25: Find the average of three numbers
+- Q26: Create a dictionary and print a specific value using its key
+- Q27: Create a tuple and print its length
+- Q28: Remove duplicate values from a list using a set
+- Q29: Find the absolute value of a number using abs()
+- Q30: Find the power of a number using pow()
