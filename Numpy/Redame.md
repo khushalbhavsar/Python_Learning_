@@ -523,3 +523,38 @@ print(arr.sum())      # Method
 ```
 
 ---
+
+# NumPy Reshaping & Resizing 
+
+| Function      | Purpose                                                                | Example             | Output              |
+| ------------- | ---------------------------------------------------------------------- | ------------------- | ------------------- |
+| `reshape()`   | Changes the **shape** of the array (number of elements stays the same) | `arr.reshape(2,3)`  | `[[1 2 3],[4 5 6]]` |
+| `resize()`    | Changes the **shape and size** of the array (can add/remove elements)  | `arr.resize((2,3))` | `[[1 2 3],[4 0 0]]` |
+| `flatten()`   | Converts the array into a **1D copy**                                  | `arr.flatten()`     | `[1 2 3 4 5 6]`     |
+| `ravel()`     | Converts the array into a **1D view** (if possible)                    | `arr.ravel()`       | `[1 2 3 4 5 6]`     |
+| `transpose()` | Swaps rows and columns                                                 | `arr.transpose()`   | Transposed array    |
+| `T`           | Shortcut for transpose                                                 | `arr.T`             | Transposed array    |
+
+---
+
+## Difference Between `reshape()` and `resize()`
+
+| Feature                    | `reshape()` | `resize()` |
+| -------------------------- | ----------- | ---------- |
+| Changes shape              | ✅           | ✅          |
+| Changes number of elements | ❌           | ✅          |
+| Modifies original array    | ❌           | ✅          |
+| Adds/removes elements      | ❌           | ✅          |
+
+---
+
+## Must-Remember Rules
+
+* ✅ `reshape()` **cannot change** the total number of elements.
+* ✅ `resize()` **can add or remove** elements.
+* ✅ `flatten()` returns a **copy**.
+* ✅ `ravel()` returns a **view** (whenever possible).
+* ✅ `transpose()` (or `T`) swaps rows and columns.
+
+---
+
